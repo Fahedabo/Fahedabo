@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahed Abu Kaf</h1>
 <h3 align="center">Third-year student, BSc Computer Science, Ben-Gurion University of the Negev.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fahedabo&label=Profile%20views&color=0e75b6&style=flat" alt="Fahedabo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fahedabo" alt="Fahed Abu Kaf" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fahedabo?tab=repositories
 
