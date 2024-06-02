@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fahedabo" alt="Fahed Abu Kaf" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fahedabo](https://github.com/Fahedabo)
 - 👨‍💻 All of my projects are available at [https://github.com/Fahedabo?tab=repositories
 
 - 📫 How to reach me **fahedabukaf@gmail.com**
